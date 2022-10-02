@@ -30,7 +30,7 @@ body{
 }
 
 .nav-item{
-    margin-left: -90px;
+    /* margin-left: -90px; */
     margin-right: 90px;
 }
 
@@ -198,8 +198,8 @@ body{
         font-size: 7px;
     }
     
-    .nav-item{
-        margin-left: 10px; 
+    .nav-link{
+        margin-left: 40px;
         /* margin-right: 90px; */
     }
     
